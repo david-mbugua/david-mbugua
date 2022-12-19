@@ -11,6 +11,8 @@ building a solution that does not exist or is not yet widely adopted in the targ
 
 📫 How to reach me: you can reach me via LinkedIn or via email.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&theme=dracula)](https://github.com/david-mbugua/github-readme-stats)
+
 
 <!--
 **david-mbugua/david-mbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
