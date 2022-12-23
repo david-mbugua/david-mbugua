@@ -1,4 +1,4 @@
-## Hi there, I am David. 👋
+## Hey there, I am David. 👋
 I am a software engineer based in Nairobi,Kenya. 
 I mostly work with Javascript frameworks and libraries(ReactJS & NodeJS) to build solutions and improve existing systems.
 
