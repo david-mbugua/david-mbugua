@@ -12,6 +12,8 @@ building a solution that does not exist or is not yet widely adopted in the targ
 📫 How to reach me: you can reach me via LinkedIn or via email.
 
 
+[![wakatime](https://wakatime.com/badge/user/845560c5-1c9a-4920-9f41-19118012f784.svg?style=plastic)](https://wakatime.com/@845560c5-1c9a-4920-9f41-19118012f784)
+
 <a href="https://github.com/david-mbugua/github-readme-stats">
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&layout=compact&theme=transparent" />
 </a>
