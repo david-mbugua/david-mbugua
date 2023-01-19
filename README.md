@@ -12,6 +12,12 @@ building a solution that does not exist or is not yet widely adopted in the targ
 📫 How to reach me: you can reach me via LinkedIn or via email.
 
 
+<a href="https://github.com/david-mbugua/github-readme-stats">
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&layout=compact&theme=dracular" />
+</a>
+<a href="https://github.com/david-mbugua/github-readme-stats">
+  <img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=David_Mbugua"/>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&layout=compact&theme=dracular)](https://github.com/david-mbugua/github-readme-stats)
 
