@@ -13,6 +13,8 @@ building a solution that does not exist or is not yet widely adopted in the targ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&theme=dracula)](https://github.com/david-mbugua/github-readme-stats)
 
+[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David_Mbugua)](https://github.com/david-mbugua/github-readme-stats)
+
 
 <!--
 **david-mbugua/david-mbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
