@@ -13,15 +13,11 @@ building a solution that does not exist or is not yet widely adopted in the targ
 
 
 <a href="https://github.com/david-mbugua/github-readme-stats">
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&layout=compact&theme=dracular" />
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&layout=compact&theme=transparent" />
 </a>
 <a href="https://github.com/david-mbugua/github-readme-stats">
-  <img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=David_Mbugua"/>
+  <img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=David_Mbugua&theme=transparent"/>
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-mbugua&layout=compact&theme=dracular)](https://github.com/david-mbugua/github-readme-stats)
-
-[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David_Mbugua)](https://github.com/david-mbugua/github-readme-stats)
 
 
 <!--
