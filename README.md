@@ -9,7 +9,7 @@ I mostly work with Javascript frameworks and libraries(ReactJS & NodeJS) to buil
 👫🏽 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions like
 building a solution that does not exist or is not yet widely adopted in the target market.
 
-📫 How to reach me: you can reach me via LinkedIn or via email.
+📫 How to reach me: you can reach me via LinkedIn or via email (davidnginyo11@gmail.com).
 
 
 [![wakatime](https://wakatime.com/badge/user/845560c5-1c9a-4920-9f41-19118012f784.svg?style=plastic)](https://wakatime.com/@845560c5-1c9a-4920-9f41-19118012f784)
