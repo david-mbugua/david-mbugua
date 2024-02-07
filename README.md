@@ -25,8 +25,6 @@ I can be reached through [LinkedIn](https://www.linkedin.com/in/david-mbugua-502
 
 👫🏽 My interests lie in collaborating on projects that tackle real-world issues or innovative solutions, such as constructing a solution that doesn't exist yet or hasn't been widely accepted in the target market.
 
-👀 Looking for employment opportunities too
-
 
 [![wakatime](https://wakatime.com/badge/user/845560c5-1c9a-4920-9f41-19118012f784.svg?style=plastic)](https://wakatime.com/@845560c5-1c9a-4920-9f41-19118012f784)
 
